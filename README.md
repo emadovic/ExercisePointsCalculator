@@ -10,7 +10,12 @@ This App allows you to preform CRUD operations for Users, and Exercises. From ea
 
 - Exercise - exerciseId, descreption, startTime, calories, userId(foriegn key).
 - User - userId, points.
-- ExerciseType - ENUMS { RUNNING,SWIMMING,STRENGTH_TRAINING,CIRCTUT_TRAINING).
+- ExerciseType ENUM {
+  - RUNNING, 
+  - SWIMMING, 
+  - STRENGTH_TRAINING, 
+  - CIRCTUT_TRAINING 
+ }
 
 **_Routes:_**
 
