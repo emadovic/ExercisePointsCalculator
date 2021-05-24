@@ -21,8 +21,8 @@ This App allows you to preform CRUD operations for Users, and Exercises. From ea
 
 **Exercise Routes:**
 
-- Route URL: http://localhost:8080/exercises on this route you can preform GET and POST request, so you can GET all exercuses in the database and add new (POST) exercise.
-- Route URL: http://localhost:8080/exercises/{id} on this route you preform GET,and PUT request, so you can update and get the exercise by its id.
+- Route URL: http://localhost:8080/exercises on this route you can preform GET and POST request, so you can GET all exercises in the database and add new (POST) exercise.
+- Route URL: http://localhost:8080/exercise/{id} on this route you preform GET,and PUT request, so you can update and get the exercise by its id.
 
 **User Routes:**
 
